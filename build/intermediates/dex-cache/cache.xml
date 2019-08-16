@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5b1e771786a9ed222638a518d1ffaf2ac449beb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neel patel\.android\build-cache\3abf81d12684e35d61f35cb890b43af4e5439adc\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_bbe73023f891520b652ce2824e09cc3e15208d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neel patel\.android\build-cache\408312f90422f1b3cd2a1682b8354ac34c9c8719\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\pre-dexed\debug\classes_1ea95e446dd00791daf66532eea0112ffcafb9d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neel patel\.android\build-cache\7acfa50d05f27c6c4686918602b113b84217e5dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\pre-dexed\debug\classes_776e10f9443dfc8caf6a7f6866e2246cf7bf3048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neel patel\.android\build-cache\3abf81d12684e35d61f35cb890b43af4e5439adc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\pre-dexed\debug\classes_20b4b1d3456b27b6f6f3854d6619a185160f5dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neel patel\.android\build-cache\a3540f4a9714ceebcd96075ea1fc632e9ff34442\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\pre-dexed\debug\classes_cfd71a3158a1dbf46ec1f6fd2bb9e84c832da15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neel patel\.android\build-cache\04ee082f7eebdca80131962d672ce00f73ef01e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\pre-dexed\debug\classes_4b054dece6935035afee87e2d65633a0618eaa0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="N:\Please_DONT_Edit_This\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_90a3436a63110654749c8edfc82cd6c0cebd2c11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef39765536d4c23de64fa11133b9c388d690fa7">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4528b53cabdd3edc45c47b1efef46cda74fc5836\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\neel patel\.android\build-cache\ba40cf142d391f437e856f9cc802650cc00a8ecf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\neel patel\Desktop\S-Assistant-20171023T113543Z-001\S-Assistant\build\intermediates\pre-dexed\debug\classes_a0c85833bc727e6d95359d3df8bf222cc2db2905.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student__registartion.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\activity_student__registartion.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_create.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\note_create.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_layout.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\grid_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stu_profile.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\stu_profile.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result_activity.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_result_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_create.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\schedule_create.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgpa.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_cgpa.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\list_ele.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\list_ele.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_base.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\activity_app_base.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgpas12.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_cgpas12.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\base_layout.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\base_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pick_period.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\pick_period.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_note.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit__student.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_edit__student.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_layout.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\base_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student__registartion.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_student__registartion.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\pick_period.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\pick_period.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\note_create.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\note_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\grid_layout.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\grid_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit__student.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\activity_edit__student.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\stu_profile.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\stu_profile.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scheduler.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\layout\\activity_scheduler.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_create.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\schedule_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_ele.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\list_ele.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scheduler.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_scheduler.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_base.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\layout\\activity_app_base.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\layout\\abc_screen_simple.xml"
+    }
+]

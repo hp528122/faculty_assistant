@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\7acfa50d05f27c6c4686918602b113b84217e5dd\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

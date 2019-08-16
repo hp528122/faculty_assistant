@@ -1,0 +1,25 @@
+#Mon Oct 23 17:38:25 IST 2017
+renamed.7=classes.dex
+renamed.6=classes3.dex
+renamed.5=classes4.dex
+renamed.4=classes2.dex
+renamed.3=classes8.dex
+renamed.2=classes7.dex
+renamed.1=classes6.dex
+renamed.0=classes5.dex
+base.7=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1ea95e446dd00791daf66532eea0112ffcafb9d3
+base.6=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4b054dece6935035afee87e2d65633a0618eaa0e
+base.5=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_776e10f9443dfc8caf6a7f6866e2246cf7bf3048
+base.4=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_20b4b1d3456b27b6f6f3854d6619a185160f5dca
+base.3=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_90a3436a63110654749c8edfc82cd6c0cebd2c11
+base.2=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_bbe73023f891520b652ce2824e09cc3e15208d98
+base.1=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cfd71a3158a1dbf46ec1f6fd2bb9e84c832da15f
+base.0=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a0c85833bc727e6d95359d3df8bf222cc2db2905
+file.7=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1ea95e446dd00791daf66532eea0112ffcafb9d3\\classes.dex
+file.6=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4b054dece6935035afee87e2d65633a0618eaa0e\\classes.dex
+file.5=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_776e10f9443dfc8caf6a7f6866e2246cf7bf3048\\classes.dex
+file.4=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_20b4b1d3456b27b6f6f3854d6619a185160f5dca\\classes.dex
+file.3=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_90a3436a63110654749c8edfc82cd6c0cebd2c11\\classes.dex
+file.2=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_bbe73023f891520b652ce2824e09cc3e15208d98\\classes.dex
+file.1=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cfd71a3158a1dbf46ec1f6fd2bb9e84c832da15f\\classes.dex
+file.0=C\:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a0c85833bc727e6d95359d3df8bf222cc2db2905\\classes.dex

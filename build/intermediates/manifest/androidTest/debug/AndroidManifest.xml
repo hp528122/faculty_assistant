@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="development.assistant.project.s_assistant.test">
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="development.assistant.project.s_assistant"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for development.assistant.project.s_assistant"/>
+</manifest>

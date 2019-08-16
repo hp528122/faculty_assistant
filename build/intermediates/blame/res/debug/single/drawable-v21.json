@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\neel patel\\.android\\build-cache\\a3540f4a9714ceebcd96075ea1fc632e9ff34442\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_sync_black_24dp.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_notifications_black_24dp.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_info_black_24dp.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_sync_black_24dp.xml",
+        "source": "C:\\Users\\neel patel\\Desktop\\S-Assistant-20171023T113543Z-001\\S-Assistant\\src\\main\\res\\drawable-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_notifications_black_24dp.xml",
+        "source": "C:\\home\\villan\\androidProjects\\S-Assistant (2)\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    }
+]
